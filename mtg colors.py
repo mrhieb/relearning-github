@@ -1,5 +1,5 @@
 import random
-
+#all colors of magic the gathering decks
 decks = ['red', 'black', 'white', 'blue', 'green']
 
 d1 = random.choice(decks)
